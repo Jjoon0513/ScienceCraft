@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "jjoons_science:block/air_collector"
+    },
+    "facing=east": {
+      "model": "jjoons_science:block/air_collector",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "jjoons_science:block/air_collector",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jjoons_science:block/air_collector",
+      "y": 270
+    }
+  }
+}

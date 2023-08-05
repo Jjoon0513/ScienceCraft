@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jjoons_science:block/aircollector_side",
+    "up": "jjoons_science:block/aircollector_up",
+    "north": "jjoons_science:block/aircollector_front",
+    "east": "jjoons_science:block/aircollector_side",
+    "south": "jjoons_science:block/aircollector_side",
+    "west": "jjoons_science:block/aircollector_side",
+    "particle": "jjoons_science:block/aircollector_side"
+  },
+  "render_type": "solid"
+}

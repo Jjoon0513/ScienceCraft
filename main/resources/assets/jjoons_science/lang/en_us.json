@@ -1,0 +1,14 @@
+{
+  "block.jjoons_science.decomposer": "Decomposer",
+  "subtitles.steam": "Steam out",
+  "subtitles.myturn": "play music",
+  "item.jjoons_science.my_turn.desc": "Jjoon - My turn",
+  "item.jjoons_science.bottle_of_oxygen": "Bottle of Oxygen",
+  "gui.jjoons_science.decomposer_gui.label_empty": "Decomposer",
+  "gui.jjoons_science.air_collector_gui.label_empty": "label",
+  "block.jjoons_science.air_collector": "Air Collector",
+  "subtitles.getair": "Collecting Air",
+  "item_group.jjoons_science.jjoons_science": "Jjoon\u0027s Science",
+  "item.jjoons_science.bottle_of_air": "Bottle of Air",
+  "item.jjoons_science.my_turn": "Music Disc"
+}

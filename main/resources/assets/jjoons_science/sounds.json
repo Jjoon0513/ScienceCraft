@@ -1,0 +1,36 @@
+{
+  "steam": {
+    "subtitle": "subtitles.steam",
+    "sounds": [
+      {
+        "name": "jjoons_science:steam",
+        "stream": false
+      }
+    ]
+  },
+  "getair": {
+    "subtitle": "subtitles.getair",
+    "sounds": [
+      {
+        "name": "jjoons_science:getairing2",
+        "stream": false
+      },
+      {
+        "name": "jjoons_science:getairing1",
+        "stream": false
+      },
+      {
+        "name": "jjoons_science:getairing",
+        "stream": false
+      }
+    ]
+  },
+  "myturn": {
+    "sounds": [
+      {
+        "name": "jjoons_science:myturn",
+        "stream": true
+      }
+    ]
+  }
+}

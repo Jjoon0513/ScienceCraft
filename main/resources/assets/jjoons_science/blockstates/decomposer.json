@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "jjoons_science:block/decomposer"
+    },
+    "facing=east": {
+      "model": "jjoons_science:block/decomposer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "jjoons_science:block/decomposer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jjoons_science:block/decomposer",
+      "y": 270
+    }
+  }
+}

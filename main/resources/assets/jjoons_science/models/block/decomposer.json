@@ -1,0 +1,11 @@
+{
+  "parent": "jjoons_science:custom/decomposer1",
+  "textures": {
+    "all": "jjoons_science:block/iron_block",
+    "particle": "jjoons_science:block/iron_block",
+    "1": "jjoons_science:block/crafting_table_top",
+    "2": "jjoons_science:block/texture",
+    "4": "jjoons_science:block/iron_block"
+  },
+  "render_type": "cutout_mipped"
+}

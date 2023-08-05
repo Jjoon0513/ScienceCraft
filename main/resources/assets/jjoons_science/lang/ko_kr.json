@@ -1,0 +1,14 @@
+{
+  "block.jjoons_science.decomposer": "분해기",
+  "subtitles.steam": "공기가 빠져나감",
+  "subtitles.myturn": "음악이 재생되는중",
+  "item.jjoons_science.my_turn.desc": "Jjoon - My turn",
+  "item.jjoons_science.bottle_of_oxygen": "Bottle of Air",
+  "gui.jjoons_science.decomposer_gui.label_empty": "분해기",
+  "gui.jjoons_science.air_collector_gui.label_empty": "공기 수집기",
+  "block.jjoons_science.air_collector": "공기 수집기",
+  "subtitles.getair": "공기 수집중",
+  "item_group.jjoons_science.jjoons_science": "사이언스크래프트",
+  "item.jjoons_science.bottle_of_air": "공기가 든 병",
+  "item.jjoons_science.my_turn": "음반"
+}
